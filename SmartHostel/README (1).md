@@ -1,4 +1,4 @@
-# 🏨 Smart Hostel Management System
+# Smart Hostel Management System
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue?style=flat-square&logo=mysql)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 The **Smart Hostel Management System** is a Java-based desktop application developed as a semester project to demonstrate Object-Oriented Programming (OOP) principles in a real-world scenario. The system provides a comprehensive, role-based platform for managing hostel operations including student registration, meal attendance tracking, billing, mess menu management, and complaint handling. It is designed for three types of users — **Admin**, **Mess In-Charge**, and **Students** — each with a dedicated dashboard and a tailored set of features. The application connects to a **MySQL** database via **JDBC** and presents a user-friendly graphical interface built with **Java Swing**.
 
