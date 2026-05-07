@@ -261,7 +261,7 @@ SmartHostel/
 
 ## GitHub Repository
 
-> **GitHub:** [https://github.com/YOUR_USERNAME/SmartHostel](https://github.com/YOUR_USERNAME/SmartHostel)
+> **GitHub:**  [https://github.com/erumnaz-code/Smart_Hostel)
 
 ---
 
